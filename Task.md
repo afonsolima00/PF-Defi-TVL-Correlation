@@ -1,0 +1,3 @@
+# Description
+
+Build a small Python script that gathers daily TVL (total value locked) data for two or three DeFi protocols (using a free source, like DeFi Llama) and merges it with each protocol token’s closing price. Perform a brief analysis—such as correlations or shifts over a recent 30- to 60-day window—to see if changes in TVL lead or lag price moves. Store all data and results in a concise CSV, and summarize any patterns or signals you observe in a short write-up. This approach can uncover advanced research angles for potential trading entries, respects your budget, and deepens your coding and analytical skills without duplicating previous efforts
